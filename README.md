@@ -16,10 +16,24 @@ This project explores whether wealth inequality acts as a “floor” (preventin
 
 To statistically quantify the relationship between income inequality (measured by the Gini Index) and educational inequality (measured by the completion gap between the richest and poorest quintiles).
 
-The project's primary aims to: 
+The project’s primary aims are: 
 
 - To visualize the trend of income inequality in the USA over the last decade.
 - To calculate the “Opportunity Gap”—the difference in completion rates between the Top 20% and Bottom 20% of households.
 - To determine if this gap is uniform across all levels of education (Primary, Secondary, Tertiary).
 - To analyze if years with higher income inequality correlate with wider educational gaps.
 
+### **Recommendations**
+
+Based on the data, policy interventions should not focus on *building schools* (access is already there), but on **bridging the gap at the higher level**:
+
+1. **Targeted Financial Aid:** Increase Pell Grants specifically for the bottom income quintile to lower the “price of admission” to the middle class.
+2. **Retention Support:** Funding should be directed toward mentorship and emergency assistance to ensure low-income students who enter college actually graduate.
+3. **Non-Degree Pathways:** Strengthen vocational training to provide economic mobility that doesn’t require a 4-year degree.
+
+---
+
+### **Conclusion**
+
+The data proves that in the United States, **Income Inequality acts as a barrier to advancement, not entry.**
+While the “Floor” of K-12 education is solid, the “Ceiling” of higher education remains locked by wealth. Until the tertiary gap is addressed, education cannot truly serve as the “Great Equalizer.”
