@@ -1,4 +1,4 @@
-# Beyond-the-Gini
+# Beyond the Gini
 ## Introduction
 
 The “**American Dream**” is built on the promise of social mobility—the idea that if you work hard and get an education, you can succeed regardless of your background. Education is touted as the "Great Equalizer.”
